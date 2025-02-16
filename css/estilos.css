@@ -82,7 +82,7 @@ font-weight: 500;
     justify-content: center;
     margin-top: 50px;
 }
-titulo-bloco-servicos{
+.titulo-bloco-servicos{
     width: 80%;
     display: flex;
     text-align: center;
